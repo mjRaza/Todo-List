@@ -1,0 +1,59 @@
+#container {
+border-radius: 4%;
+background-color: #0606060f;
+margin: 10% auto;
+width: 40%;
+padding: 5%;
+
+
+}
+
+
+body{
+
+    background-color: #dae2ff;
+}
+
+
+#data
+{
+    background: #c8e2ac00;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding: 1%;
+
+}
+input:focus {outline: none}
+
+#saved-data {
+    background: #c8e2ac;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 80%;
+    padding: 1%;
+
+
+}
+#btn
+{      width: 28%;
+    padding: 1%;
+    margin: 2 0%;
+}
+.btn 
+  
+{        width: 28%;
+    padding: 1%;
+    margin: 2 0%;
+}
+
+.remove
+{
+float: right
+
+
+}.remove:hover
+{
+    color: red;
+
+}
